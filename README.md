@@ -8,3 +8,5 @@ viterbiWithLogProb.py
 simple_percep.py
 
 kohonenSOM.py
+
+test.py
